@@ -25,7 +25,7 @@ namespace Task2
             {
                 FileInfo file = files[i];
                 double size = file.Length / 1024 * 1024;
-                Console.WriteLine($"{i + 1}. {file.FullName}, ({size:F2}) MB ");
+                Console.WriteLine($"{i + 1}. {file.FullName}, ({size}) MB ");
             }
         }
     }
