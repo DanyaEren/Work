@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Work\\Zadacha1\\Zadacha1\\Zadacha1.csproj": {}
+    "C:\\GitHub\\Work\\Work\\Zadacha1\\Zadacha1\\Zadacha1.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Work\\Zadacha1\\Zadacha1\\Zadacha1.csproj": {
+    "C:\\GitHub\\Work\\Work\\Zadacha1\\Zadacha1\\Zadacha1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Work\\Zadacha1\\Zadacha1\\Zadacha1.csproj",
+        "projectUniqueName": "C:\\GitHub\\Work\\Work\\Zadacha1\\Zadacha1\\Zadacha1.csproj",
         "projectName": "Zadacha1",
-        "projectPath": "D:\\Work\\Work\\Zadacha1\\Zadacha1\\Zadacha1.csproj",
-        "packagesPath": "C:\\Users\\DanyaEren\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Work\\Zadacha1\\Zadacha1\\obj\\",
+        "projectPath": "C:\\GitHub\\Work\\Work\\Zadacha1\\Zadacha1\\Zadacha1.csproj",
+        "packagesPath": "C:\\Users\\erenb\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\Work\\Work\\Zadacha1\\Zadacha1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DanyaEren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\erenb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
