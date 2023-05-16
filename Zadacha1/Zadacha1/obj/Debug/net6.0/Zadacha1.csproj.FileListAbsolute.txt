@@ -13,3 +13,18 @@ D:\С# console project\Zadacha1\Zadacha1\obj\Debug\net6.0\refint\Zadacha1.dll
 D:\С# console project\Zadacha1\Zadacha1\obj\Debug\net6.0\Zadacha1.pdb
 D:\С# console project\Zadacha1\Zadacha1\obj\Debug\net6.0\Zadacha1.genruntimeconfig.cache
 D:\С# console project\Zadacha1\Zadacha1\obj\Debug\net6.0\ref\Zadacha1.dll
+D:\Work\Work\Zadacha1\Zadacha1\bin\Debug\net6.0\Zadacha1.exe
+D:\Work\Work\Zadacha1\Zadacha1\bin\Debug\net6.0\Zadacha1.deps.json
+D:\Work\Work\Zadacha1\Zadacha1\bin\Debug\net6.0\Zadacha1.runtimeconfig.json
+D:\Work\Work\Zadacha1\Zadacha1\bin\Debug\net6.0\Zadacha1.dll
+D:\Work\Work\Zadacha1\Zadacha1\bin\Debug\net6.0\Zadacha1.pdb
+D:\Work\Work\Zadacha1\Zadacha1\obj\Debug\net6.0\Zadacha1.csproj.AssemblyReference.cache
+D:\Work\Work\Zadacha1\Zadacha1\obj\Debug\net6.0\Zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Work\Zadacha1\Zadacha1\obj\Debug\net6.0\Zadacha1.AssemblyInfoInputs.cache
+D:\Work\Work\Zadacha1\Zadacha1\obj\Debug\net6.0\Zadacha1.AssemblyInfo.cs
+D:\Work\Work\Zadacha1\Zadacha1\obj\Debug\net6.0\Zadacha1.csproj.CoreCompileInputs.cache
+D:\Work\Work\Zadacha1\Zadacha1\obj\Debug\net6.0\Zadacha1.dll
+D:\Work\Work\Zadacha1\Zadacha1\obj\Debug\net6.0\refint\Zadacha1.dll
+D:\Work\Work\Zadacha1\Zadacha1\obj\Debug\net6.0\Zadacha1.pdb
+D:\Work\Work\Zadacha1\Zadacha1\obj\Debug\net6.0\Zadacha1.genruntimeconfig.cache
+D:\Work\Work\Zadacha1\Zadacha1\obj\Debug\net6.0\ref\Zadacha1.dll

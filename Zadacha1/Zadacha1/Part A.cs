@@ -74,17 +74,17 @@ namespace Zadacha1
             //Проверка, что список пустой
             if (array == null)
             {
-                throw new ArgumentNullException("array");
+                throw new ArgumentNullException("array = null | список = нулю");
             }
             //Проверка что индекс списка не меньше количества элементов
             if (index < 0 || index > array.Length)
             {
-                throw new ArgumentOutOfRangeException("index exception");
+                throw new ArgumentOutOfRangeException("index outside the list or index = null | индех за пределами списка или равен нулю");
             }
             //Проверка что длина списка - индекс списка, не больше количества элементов
             if (array.Length - index < Count)
             {
-                throw new ArgumentOutOfRangeException("Count more element in the list");
+                throw new ArgumentOutOfRangeException("Count more element in the list | Количество элементов, больше чем длина списка");
             }
             
             //Копирование списка
